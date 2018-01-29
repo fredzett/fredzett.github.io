@@ -1,5 +1,3 @@
-
-
 # Managerial Finance
 
 ### Summer Term 2018
